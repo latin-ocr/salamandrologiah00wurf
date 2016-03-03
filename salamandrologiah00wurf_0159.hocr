@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./salamandrologiah00wurf_0159.png"; bbox 0 0 1542 2010; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1315 1447 1541 1507">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1315 1447 1541 1507">
+     <span class='ocr_line' id='line_1_1' title="bbox 1315 1447 1541 1507; baseline -0.154 8"><span class='ocrx_word' id='word_1_1' title='bbox 1315 1476 1331 1500; x_wconf 68' lang='grc' dir='ltr'><em>Ἰ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1337 1479 1349 1493; x_wconf 89' lang='grc'>”</span> <span class='ocrx_word' id='word_1_3' title='bbox 1364 1482 1408 1507; x_wconf 63' lang='lat' dir='ltr'>:ossa</span> <span class='ocrx_word' id='word_1_4' title='bbox 1394 1457 1491 1506; x_wconf 50' lang='lat' dir='ltr'>”W</span> <span class='ocrx_word' id='word_1_5' title='bbox 1458 1464 1489 1495; x_wconf 56' lang='lat' dir='ltr'>W:</span> <span class='ocrx_word' id='word_1_6' title='bbox 1496 1458 1506 1487; x_wconf 49' lang='lat' dir='ltr'>kx.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1501 1447 1541 1485; x_wconf 51' lang='lat' dir='ltr'>*huf*</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 5 1542 1950">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 5 1542 1950">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 5 1542 1950; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 5 1542 1950; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
